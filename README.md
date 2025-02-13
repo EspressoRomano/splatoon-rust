@@ -1,3 +1,5 @@
+# MOVED TO https://git.perditum.com/Perditum/rnex-splatoon
+
 # Splatoon NEX Server in Rust
 
 ## Credits:
